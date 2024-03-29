@@ -1,4 +1,4 @@
-# DIY Analog pad(Pico version)
+# DIY Analog pad(Raspberry Pi Pico version)
 
 ![photo1](https://github.com/nicotakuya/diy_analogpad_pico/assets/5597377/d90262b4-ec53-4c2f-90be-67729fe362ce)
 
