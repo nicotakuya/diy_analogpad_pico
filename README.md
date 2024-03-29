@@ -4,7 +4,7 @@
 
 ## Overview
 
-「DIY Analog pad」のRaspberry Pi Pico版です。現時点ではMDモードのみ対応しています。
+「DIY Analog pad」のRaspberry Pi Pico版です。Mega Driveと接続する場合はMDモード。X68000やMSX等と接続する場合はPCモードに設定します。現時点ではMDモードのみ対応しています。
 
 ## Files
 
@@ -20,29 +20,29 @@
 
 ## Parts
 
-・U1: Raspberry Pi Pico
+・U1: Raspberry Pi Pico。
 
-・U2: 8ビット双方向ロジックレベル変換ブレークアウトモジュールキット(秋月電子通商)
+・U2: 8ビット双方向ロジックレベル変換ブレークアウトモジュールキット(秋月電子通商)。
 
-・U3: OLED Display SSD1306
+・U3: OLED Display SSD1306。デバッグ時に使用するだけです。省略可能です。
 
-・VRX/VRY: 右スティック RKJXV122400R
+・VRX/VRY: 右スティック RKJXV122400R。
 
-・VLX/VLY: 左スティック RKJXV122400R
+・VLX/VLY: 左スティック RKJXV122400R。
 
-・SW1-SW8: Switch
+・SW1-SW8: Switch。
 
-・CN1: Dsub9pin female
+・CN1: Dsub9pin female。
 
-・D1 : ショットキーバリアダイオード
+・D1 : 整流用ショットキーバリアダイオード。
 
-・JP1:LEFT/RIGHTを左スティックに割り振る場合はショート
+・JP1: LEFT/RIGHTを左スティックに割り振る場合はショートさせる。
 
-・JP2:LEFT/RIGHTを右スティックに割り振る場合はショート
+・JP2: LEFT/RIGHTを右スティックに割り振る場合はショートさせる。
 
-・JP3:MD modeの場合はショート
+・JP3: MD modeの場合はショートさせる。
 
-・JP4:PC modeの場合はショート
+・JP4: PC modeの場合はショートさせる。
 
 ## Movie
 
