@@ -14,9 +14,13 @@
 
 ・diy_analogpad_pico_schematics.png : 回路図。
 
-・STL_file : 3Dプリンタ用データ
+・STL_file : 3Dプリンタ用データ。
 
 ![stl_file](https://github.com/nicotakuya/diy_analogpad_pico/assets/5597377/138cb32d-592b-45b2-b06d-d1b1ccf1db98)
+
+・DIYAPADPICO.COMP : CADLUS X用プリント基板CADデータ。
+
+![diy_analogpad_pico_pcb](https://github.com/nicotakuya/diy_analogpad_pico/assets/5597377/15818324-e24e-433d-bc0c-cb60769848d8)
 
 ## Parts
 
