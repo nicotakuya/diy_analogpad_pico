@@ -12,7 +12,7 @@
 
 ・diyapadpico.ino: ソースファイル。開発環境はArduino IDE(Arduino-Pico)。
 
-・8x8font.h : フォントデータ。
+・8x8font.h : フォントデータ。https://github.com/nicotakuya/8pixelfont
 
 ・diy_analogpad_pico_schematics.png : 回路図。
 
